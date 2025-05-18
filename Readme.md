@@ -42,26 +42,29 @@ Extract pokemon-simulator.zip anywhere on your machine.
 
 2. Set up a Python environment (optional but recommended)
 
-bash
+```bash
 python -m venv venv
-# Activate:
+## Activate:
 source venv/bin/activate        # On macOS / Linux
 venv\Scripts\activate.bat       # On Windows
+```
 
 
 3. Install dependencies
 
-bash
+```bash
 pip install -r requirements.txt
+```
 
 
 4. Run the App
 
-``bash
+```bash
 streamlit run app.py
 ```
 
 🧪 How It Works
+```bash
 	1.	Select “Battle Simulator” or “Data Explorer” from the sidebar.
 	2.	Enter Pokémon names (e.g. charizard, blastoise).
 	3.	Battle Simulator:
@@ -72,5 +75,6 @@ streamlit run app.py
 	•	Shows Pokémon stats in table format
 	•	Fetches data from internal logic or PokéAPI
 	5.	All output is shown live in the main panel.
+```
 
 ⸻
