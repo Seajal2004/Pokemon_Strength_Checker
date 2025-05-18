@@ -83,5 +83,5 @@ streamlit run app.py
 	•	Fetches data from internal logic or PokéAPI
 	5.	All output is shown live in the main panel.
 ```
-
+✅ Built with ❤️ by a Pokémon & Python enthusiast!
 ⸻
