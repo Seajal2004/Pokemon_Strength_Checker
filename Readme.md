@@ -1,4 +1,11 @@
 # ⚔ PokéSim
+# 🐉 Pokémon Strength Checker
+
+A simple and interactive **Streamlit web app** that allows you to check the **strength of any Pokémon** based on its base stats and type effectiveness. Perfect for fans who want to analyze or compare Pokémon performance!
+
+🌐 **Live Demo:** [pokemon-strength-checker.streamlit.app](https://pokemon-strength-checker.streamlit.app/)
+
+---
 # 🧬 Pokémon Battle Simulator & Data Explorer
 
 An interactive Streamlit-based app for simulating Pokémon battles and exploring detailed Pokémon stats. Combines type effectiveness, turn-based logic, and status conditions like Burn, Poison, and Paralysis. Built for educational and entertainment purposes.
